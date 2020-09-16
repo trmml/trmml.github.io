@@ -1,0 +1,15 @@
+language: ruby
+cache: bundler
+rvm:
+ - 2.4
+ - 2.5
+ - 2.6
+script:
+ - bundle exec jekyll build
+ - rake 'draft[Hello\, world]'
+ - rake undraft[hello-world.md]
+ - grep trmml/trmml.github.io _site/index.html
+ - grep post-title         _site/index.html
+ - grep pagination-item    _site/index.html
+ - grep trmml/trmml.github.io _site/css/pixyll.css
+ - grep 404                _site/404.html
