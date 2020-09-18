@@ -9,7 +9,7 @@ At this point in my life I have experienced much of what life has to offer and b
 
 In Genesis there exists a garden, and this garden exists within all of us, for we are simply nature expressing itself. Our gardens, filled with pretty clothing and friendly smiles. No garden without its snakes. Accept this. Harness your snakes with articulation, intellect, wisdom and wit to grow yourself above the grass and weeds. Truth is not denying good or bad; it is accepting them harmoneously. You are both God and Satan.
 
-You define What Is so it's up to you if something is good or bad. It is up to you to be affected by events or words. For example, when people call names you can call them out by replying or brush it off and dismissing them. Your choices determine the sacrafice you make.
+You define What Is so it's up to you if something is good or bad. It is up to you to be affected by events or words. For example, when people call names you can call them out by replying or brush them off and dismiss them. Your choices determine the sacrifice you make.
 
 *"It is the mark of an educated mind to be able to entertain a thought without accepting it."* That's Aristotle. People can say just about anything
 and you can listen but you don't have to follow their lead or apply
