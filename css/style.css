@@ -1,45 +1,57 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-    font-family: "Courier", monospace;
+  font-family: "Courier", monospace;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
-    padding: 5%;
+  max-width: 75%;
+  margin: auto;
+  padding: 150px;
 }
 
 .post {
-    margin: 60px 0 60px 0;
+  margin: 60px 0 60px 0;
 }
 
-h1, h2 {
-    font-family: "Marker Felt", fantasy;
-    background-color: #ffe03b;
-    padding: 10px;
-    margin: 30px 5px 30px 5px;
-    display: inline;
+h1,
+h2 {
+  font-family: "Marker Felt", fantasy;
+  font-size: 1.5em;
+  background-color: #ffe03b;
+  padding: 10px;
+  margin: 30px 5px 30px 5px;
+  display: inline;
+}
+
+p {
+  font-size: 1.2em;
 }
 
 .header {
-    margin-bottom: 150px;
-    text-align: right;
-}
-
-.header img {
-    width: 150px;
-    float: left;
+  margin-bottom: 150px;
+  text-align: right;
+  font-size: 0.8em;
 }
 
 .header #logo {
-    font-size: 50px;
-    float: left;
+  font-size: 50px;
+  float: left;
 }
 
 footer {
-    text-align: center;
-    margin-top: 35px;
-    padding: 25px;
-    background-color: #eee;
+  text-align: center;
+  margin-top: 15px;
+  padding: 50px;
+  background-color: #eee;
+  text-transform: uppercase;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
